@@ -1,0 +1,3 @@
+# The following dependecy should be kept at v0.18.1 in 'main' and 'production' branches
+# New commits to flutterflow will downgrade it to v0.18.0
+intl: 0.18.0
